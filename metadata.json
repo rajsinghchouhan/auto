@@ -1,0 +1,6 @@
+{
+  "name": "TrafficShield - Smart Ad URL Failover & 404 Auto-Redirect Engine",
+  "description": "Automated traffic protection and link failover system for digital ads. Instantly cascades traffic from abc.com to bca.com or pac.com when a 404 or domain error occurs, preventing ad spend loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
